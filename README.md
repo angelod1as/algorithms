@@ -1,20 +1,13 @@
-# 🧟 Outbreak
-> Select your survivor
+# Algorithms
 
-![Webpage screenshot](https://i.imgur.com/U9VyloF.png)
+![Webpage screenshot](https://i.imgur.com/p9gcMAa.png)
 
 ### Technologies used:
 
 - Typescript
 - React
 - Styled Components
-- Axios
 - Eslint + Prettier
-
-### Implementation details:
-
-- Axios is used to simulate a real-life API call instead of a plain JSON import.
-- The app is fully responsive.
 
 ## Development
 
