@@ -25,7 +25,6 @@ const GlobalStyle = createGlobalStyle<GlobalProps>`
   }
 
   h1 {
-    font-family: 'Creepster', sans-serif;
     font-size: 2em;
     color: ${p => p.theme.colors.black};
     line-height: 120%;

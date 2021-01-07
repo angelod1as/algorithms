@@ -1,14 +1,11 @@
 const colors = {
   white: '#FFFFFF',
   black: '#000000',
+  hoverBlack: '#292929',
   gray: '#CCCCCC',
   darkgray: '#A9A9A9',
   darkergray: '#8B8B8B',
-  lightRed: '#e07d7d',
-  red: '#a93a3a',
-  green: '#5e9e70',
-  darkGreen: '#3e7735',
-  lightGreen: '#b4e5b5',
+  gold: '#dbb95a',
 }
 
 export interface ThemeProps {
