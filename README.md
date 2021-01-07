@@ -2,7 +2,7 @@
 
 ![Webpage screenshot](https://i.imgur.com/p9gcMAa.png)
 
-[See the webpage live]()
+[See the webpage live](https://algorithms-henna.vercel.app/)
 
 ### Technologies used:
 
@@ -10,6 +10,8 @@
 - React
 - Styled Components
 - Eslint + Prettier
+
+The algoritms themselves are inside `src/components/Algorithms/functions/`
 
 ## Development
 
